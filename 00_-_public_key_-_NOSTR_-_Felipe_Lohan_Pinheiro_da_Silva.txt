@@ -1,5 +1,0 @@
-NOSTR public key:
-
-Felipe Lohan Pinheiro da Silva
-
-npub1g67qzqdutsj444dzqlx3n3w9a5w4r2la6r6u93meqsf4ujyhad7qvz03lz
